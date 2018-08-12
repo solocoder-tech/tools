@@ -1,0 +1,204 @@
+阿里云企业邮箱：huangkai@quchangkeji.com密码：Huang618033
+有需要用到短信接口的暂时一律用手机号18911719349，验证码111111，做验证
+
+
+
+聚合数据 身份证实名认证
+记住是身份证实名认证，不是身份识别
+https://www.juhe.cn/docs/api/id/208
+账号：tosing
+密码：quchangkeji@520
+请求地址：http://op.juhe.cn/idcard/query
+请求参数：idcard=450923198708266199&realname=huangkai&key=2c642f58be4148dfc7ea755c65e0dd16
+请求方式：POST
+{
+	"reason":"库中无此身份证记录",
+	"result":null,
+	"error_code":210301
+}
+
+极光：quchangkeji@126.com?密码：quchangkeji@123
+
+http://www.id98.cn/intro/idcard
+身份证实名认证API接口
+
+官网服务器的ftp帐号
+ftp://121.196.215.69
+zhounixiang
+Znx_12332100
+
+趣唱官网：
+www.quchangkeji.com
+
+测试网址：
+http://192.168.3.44:81/zentao/my/
+账号：huangkai
+密码：123456
+
+中文：深圳趣唱科技有限公司
+英文：Shenzhen ToSing Technology Co. , Ltd
+
+签名：681c4abe
+
+com.quchangkeji.tosing
+
+签名文件路径
+C:\Users\teana\tosing.jks
+C:\Users\teana\tosing.jks
+C:\Users\teana\quchang.jks
+
+MD5:681C4ABE154CEE53CDF1BE700E4D818A
+MD5:681c4abe154cee53cdf1be700e4d818a
+SHA1: B869089C4AD84BA12EC967218F2D319D1AF9DAFF
+SHA256: 32407CE55CFD05641AA4E0886CA3C105FBA7DCC17E
+签签名名算算法法名名称称: SHA256withRSA
+
+
+MD5: 68:1C:4A:BE:15:4C:EE:53:CD:F1:BE:70:0E:4D:81:8A
+         SHA1: B8:69:08:9C:4A:D8:4B:A1:2E:C9:67:21:8F:2D:31:9D:1A:F9:DA:FF
+         SHA256: 32:40:7C:E5:5C:FD:05:64:1A:A4:E0:88:6C:A3:C1:05:FB:A7:DC:C1:7E:
+         签签名名算算法法名名称称: SHA256withRSA
+         版版本本: 3
+
+		 QQ：
+		 APP ID1105746417
+APP KEYzJ6cShPfRbRgTfbz
+微博：
+App Key：2157465242
+App Secret：c9c6cc7ee4a075faa6e514390d07a8ab
+
+BQMM:
+AppId:798fdca6402f4c759aa6e4e326e30d68
+AppSecret:93d8cd67f9564e63a170462613a1981b
+
+
+k管家
+百度地图
+开发sha1 ：5A:82:6A:62:D5:CA:02:BF:E7:DC:9B:EA:02:0D:CD:2D:F3:49:60:D4
+发布sha1 ：A1:1F:D9:C1:FE:9F:50:62:1C:9A:C3:69:11:0F:91:64:DE:C4:56:CE
+
+
+
+
+
+PRD地址：
+http://192.168.3.104/ToSing/#g=1&p=4_5表情商店
+
+svn://192.168.3.189/趣唱科技
+SVN帐号就是你们的名字拼音，密码默认都是123456，你们可以自己改密码
+
+科大讯飞：quchangkeji@126.com? ?密码：quchangkeji@123
+
+svn://192.168.3.189/趣唱科技/源代码/客户端/移动端/安卓/Android
+
+
+
+
+深圳市龙岗区南湾街道南岭北路6号东雅集团6栋202室
+
+
+联系人：韦孝平
+电话：18718051988
+
+
+
+开发注册平台使用邮箱：
+账号：quchangkeji@126.com
+密码：quchangkeji@520
+
+公司名称：
+深圳趣唱科技有限公司
+营业执照－统一社会信用代码 91440300MA5DM9969T
+
+
+开发注册平台使用邮箱：
+账号：quchangkeji@126.com
+密码：quchangkeji@520
+
+公司名称：
+深圳趣唱科技有限公司
+营业执照－统一社会信用代码 91440300MA5DM9969T
+
+友盟账号：quchangkeji@126.com  
+密码：quchangkeji@123
+
+
+QQ平台：
+http://op.open.qq.com/manage_centerv2/android?owner=1489856167&uin=1489856167
+腾讯开放平台 :1489856167 密码：quchangkeji@123
+
+
+微博：
+App Key：2157465242
+App Secret：c9c6cc7ee4a075faa6e514390d07a8ab
+
+
+
+fir.im账号
+technology@quchangkeji.com
+密码：quchangkeji@520
+
+支付宝：
+https://uemprod.alipay.com/user/ihome.htm
+technology@quchangkeji.com
+Tosing@520#kj
+http://app.srv.quchangkeji.com:8083/tsAPI/pay/aliPayReturn.do
+https://openapi.alipay.com/gateway.do
+
+AES密钥：
+dkF12SSCSfit0zlEQ1w0eg==
+
+
+DIY字幕贴纸完善并修复BUG
+支付功能开发
+录歌保存时进度条加百分比数字显示（预留）
+
+
+
+
+微信开放平台：
+quchangkeji@126.com 密码：quchangkeji@123
+
+微信商户平台：
+https://pay.weixin.qq.com/index.php/core/info
+https://mch.tenpay.com/mch_first_page.shtml###
+1431437602@1431437602
+密码： 246909
+
+
+微信支付商户号
+1493773122
+商户平台登录帐号
+1493773122@1493773122
+商户平台登录密码
+601297
+申请对应的应用
+PK歌王（）
+应用APPID
+wxecb544ddccdd0df5
+8797E4BA5BEE5A425B6A6646B235B76C
+操作密码：quchangkeji@123
+
+每一句分数为一百分；
+没有声音的时候，为零分，最低三十分起；
+
+64841639
+
+您好，我门是打算做APP支付，APPID: 2017010904949957，但是在提交审核之后，因为网络经营许可证没有上传，但是现在一直处于审核中，我在哪里可以改变审核状态，这样我好提交网络经营许可证？
+
+您好，我签约的APP支付，但是出现了两个，一个是appid为2017011104981137，一个是2017010904949957，两个看都是生效的，是不是可以集成sdk了？
+
+
+把公钥配置在应用中的应用公钥里，会对应一个支付宝公钥的，然后把公钥复制都代码里
+
+订单号：
+U26757-170111-5386
+
+开通权限账户：
+technology@quchangkeji.com
+
+是审核不通过，但是没有改变审核状态，所以我不能再编辑资料
+
+https://uemprod.alipay.com/user/ihome.htm
+
+您好，我们做手机app支付的时候，已经支付成功，但是服务端接收不到回调信息，服务端是否支持带端口号的回调URL

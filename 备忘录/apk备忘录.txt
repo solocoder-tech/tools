@@ -1,0 +1,51 @@
+中文：深圳趣唱科技有限公司
+英文：Shenzhen ToSing Technology Co. , Ltd
+
+签名：681c4abe
+
+com.quchangkeji.tosing
+
+签名文件路径
+C:\Users\teana\tosing.jks
+C:\Users\teana\tosing.jks
+C:\Users\teana\quchang.jks
+
+MD5:681C4ABE154CEE53CDF1BE700E4D818A
+SHA1: B869089C4AD84BA12EC967218F2D319D1AF9DAFF
+SHA256: 32407CE55CFD05641AA4E0886CA3C105FBA7DCC17E
+签签名名算算法法名名称称: SHA256withRSA
+
+
+MD5: 68:1C:4A:BE:15:4C:EE:53:CD:F1:BE:70:0E:4D:81:8A
+         SHA1: B8:69:08:9C:4A:D8:4B:A1:2E:C9:67:21:8F:2D:31:9D:1A:F9:DA:FF
+         SHA256: 32:40:7C:E5:5C:FD:05:64:1A:A4:E0:88:6C:A3:C1:05:FB:A7:DC:C1:7E:
+         签签名名算算法法名名称称: SHA256withRSA
+         版版本本: 3
+
+		 QQ：
+		 APP ID1105746417
+APP KEYzJ6cShPfRbRgTfbz
+微博：
+App Key：2157465242
+App Secret：c9c6cc7ee4a075faa6e514390d07a8ab
+
+BQMM:
+AppId:798fdca6402f4c759aa6e4e326e30d68
+AppSecret:93d8cd67f9564e63a170462613a1981b
+
+测试网址：
+http://192.168.3.44:81/zentao/my/
+账号：huangkai
+密码：123456
+
+http://192.168.3.39/zentao/my/
+
+
+
+利用信息网络经营音乐娱乐产品
+
+支付宝公钥：
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAndM8hkQM5AciiBD9xNqmN81SBH2rXO3f4qEamO7kpet9amO4Pf0BjzZeuKWDg6IaAt9H6zmxzUZJdhXoHz8+UM2NQPNY9h0DuHyjFlx7tMVuePo0BYhQ7ymPOGwr0SZEfChRqw6qcXbPQ8zFzqKCxNeF2Rr+cAmikxDIheAg7auiQoUZXeurFUCv8tgy9GFK5yqxHcB1AgE6b08ZLn7+vofGqecbEacl4fI0yMoWynOAdBuHK0d9ycv0sVVqV/EI/r3Ms61eYDFj+TQ7NkYqJrLFUUnQQkFbVJyG9Db2bYckJBh5AEC1Mx8SIE63p1A8LFsFvPmhZ8xXSoqrjO/iMQIDAQAB
+
+
+

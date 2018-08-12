@@ -1,0 +1,55 @@
+吟鹿 
+
+com.quchangkeji.yinlu
+
+keytool -list -v -keystore yinlu.jks
+
+
+证书指纹:
+         MD5: 7D:EA:E5:ED:89:18:EB:BD:4A:28:D8:D8:DF:B2:A8:17
+         SHA1: 0C:A2:B6:66:DC:85:A9:8F:EE:5F:D2:F1:70:A1:F8:18:76:C0:C8:4E
+         SHA256: E5:42:66:BF:05:A5:7E:C2:F0:0D:ED:0F:55:91:FA:1E:03:8C:64:CF:7D:BA:2B:B8:63:84:31:B9:9C:FA:48:C6
+         签名算法名称: SHA256withRSA
+         版本: 3
+
+		 
+		 
+	吟鹿原型网址 https://3tp6sn.axshare.com
+
+查看密码：15341	 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 

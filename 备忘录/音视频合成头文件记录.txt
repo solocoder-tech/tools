@@ -1,0 +1,98 @@
+
+/storage/emulated/0/quchang/accompany/降央卓玛-走天涯.mp4
+
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=643, durationUs=268021333, csd-0=java.nio.ByteArrayBuffer[position=0,limit=5,capacity=5], pcm-type=1, sample-rate=48000}
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=10,capacity=10], mime=video/avc, frame-rate=15, height=432, width=768, max-input-size=28000, durationUs=268400000, csd-0=java.nio.ByteArrayBuffer[position=0,limit=33,capacity=33]}
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=10,capacity=10], mime=video/avc, frame-rate=15, height=432, width=768, max-input-size=28000, durationUs=268400000, csd-0=java.nio.ByteArrayBuffer[position=0,limit=33,capacity=33]}
+
+
+//录像的
+
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=537, durationUs=8938812, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], pcm-type=1, sample-rate=48000}
+{mime=video/mp4v-es, frame-rate=21, rotation-degrees=270, height=480, width=640, max-input-size=14371, durationUs=8868944, csd-0=java.nio.ByteArrayBuffer[position=0,limit=46,capacity=46]}
+
+
+//DIYDE 的
+
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=0, height=1040, width=780, max-input-size=111509, durationUs=114000000, csd-0=java.nio.ByteArrayBuffer[position=0,limit=14,capacity=14]}
+
+
+
+
+
+
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=643, durationUs=268021333, csd-0=java.nio.ByteArrayBuffer[position=0,limit=5,capacity=5], pcm-type=1, sample-rate=48000}降央卓玛-走天涯.mp4
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=1, max-input-size=272, durationUs=266037625, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], pcm-type=1, sample-rate=16000}//录制的
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=23, height=720, width=1280, max-input-size=14088, durationUs=265963022, csd-0=java.nio.ByteArrayBuffer[position=0,limit=20,capacity=20]}
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=10,capacity=10], mime=video/avc, frame-rate=15, height=432, width=768, max-input-size=28000, durationUs=268400000, csd-0=java.nio.ByteArrayBuffer[position=0,limit=33,capacity=33]}
+presentationTimeUs =50078
+
+
+
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=643, durationUs=268021333, csd-0=java.nio.ByteArrayBuffer[position=0,limit=5,capacity=5], pcm-type=1, sample-rate=48000}降央卓玛-走天涯.mp4
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=156, durationUs=266158020, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], pcm-type=1, sample-rate=48000}//录制的
+
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=25, height=720, width=1280, max-input-size=20831, durationUs=266099811, csd-0=java.nio.ByteArrayBuffer[position=0,limit=20,capacity=20]}
+
+
+
+80fff5   80ffe6   80ffce   80ffb9    80ff9b    75ff85    e7f47b   f4c87b    f4847b   fd5656
+
+
+
+
+首页和听歌页面万里设置提醒：
+
+
+
+
+录制的，
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=155, durationUs=66522020, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], pcm-type=1, sample-rate=48000}
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=20, rotation-degrees=90, height=480, width=640, max-input-size=32398, durationUs=66454688, csd-0=java.nio.ByteArrayBuffer[position=0,limit=19,capacity=19]}
+合成的：
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=60, height=480, width=640, max-input-size=32398, durationUs=74162555, csd-0=java.nio.ByteArrayBuffer[position=0,limit=19,capacity=19]}
+{bit-width=16, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, max-input-size=642, durationUs=184021333, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], pcm-type=1, sample-rate=48000}
+
+
+
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=20, rotation-degrees=90, height=480, width=640, max-input-size=32398, durationUs=66454688, csd-0=java.nio.ByteArrayBuffer[position=0,limit=19,capacity=19]}
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, frame-rate=60, height=480, width=640, max-input-size=32398, durationUs=74162555, csd-0=java.nio.ByteArrayBuffer[position=0,limit=19,capacity=19]}
+
+
+
+华为录制MP4：
+/storage/3AA8-1DD6/quchang/accompany/张杰-浮诛.mp4
+{csd-1=java.nio.ByteArrayBuffer[position=0,limit=10,capacity=10], mime=video/avc, frame-rate=25, height=432, width=768, max-input-size=51659, durationUs=254520000, csd-0=java.nio.ByteArrayBuffer[position=0,limit=28,capacity=28]}
+{max-input-size=609, aac-profile=2, mime=audio/mp4a-latm, durationUs=254046666, csd-0=java.nio.ByteArrayBuffer[position=0,limit=5,capacity=5], channel-count=2, sample-rate=48000}
+
+录制：
+{max-input-size=52, mime=audio/3gpp, durationUs=79261625, channel-count=1, sample-rate=8000}
+
+存在问题：
+1：录制的时候格式不对，使用的不是mime=audio/mp4a-latm，
+2：声道数不对，应该为双通道。
+3：采样率不对，应该为48000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,432 @@
+package com.pdm.spectrogram.utils;
+
+import java.io.File;
+import java.io.IOException;
+
+/**
+ * Created by teana on 2017/8/16.
+ */
+ 
+ 
+ 8888888888888 countshow180
+08-16 10:36:41.338 18176-18176/com.pdm.spectrogram I/System.out: 8888888888888 data
+
+-5017,-4555,-3943,-4911,-6439,-5686,-3240,-2175,-3259,-4373,-3316,-1380,263,-835,-2124,-2273,-2146,-2627,-3729,-3850,-2037,-3662,-3881,-4975,-3972,-5099,-6226,-6165,-6522,-6285,-8041,-5708,-4016,-2696,-2772,-1785,-86,108,590,1172,4906,6376,8393,8126,6870,5061,4971,3083,42,-1627,-2156,-2439,-4394,-2952,-1236,-533,-2572,-3421,-5090,-7107,-9551,-7524,-5820,-5944,-6550,-4497,-2352,-1868,-2731,-3255,-4316,-5696,-7924,-7019,-4168,-1678,-3373,-3027,-2274,-3157,-4885,-4603,-5245,-5772,-5607,-5717,-3604,-3658,-2268,-2192,-2519,-3233,-3525,-2980,-3658,-3021,-2310,-417,967,1138,-204,-1001,-2576,-3796,-5504,-4833,-5204,-5041,-4526,-4207,-3949,-4036,-4789,-5844,-6221,-5868,-5294,-4080,-3642,-3394,-2053,355,1550,343,1860,-479,-1903,-4111,-505,718,437,-2006,-4220,-4053,-3638,-2984,-3798,-5091,-6733,-7048,-6491,-5916,-4071,-3730,-4931,-5907,-6083,-4685,-3339,-1809,-2962,-4062,-3787,-2479,-797,-1654,-2287,-2381,-1778,-3126,-3710,-3850,-3197,-3393,-4654,-5134,-5082,-5519,-6524,-6498,-5869,-6337,-4597,-4597,-4720,-4683,-2657,1010,242,852,470,4561,7286,8426,7147,5561,4763,5189,4433,745,-2668,-3671,-2024,-2875,-3020,-3824,-3703,-3895,-6052,-6423,-6655,-7651,-9793,-7559,-7535,-5733,-4114,-536,-2670,-4349,-6198,-4584,-3738,-6029,-8451,-6842,-4625,-2781,-2987,-4508,-5393,-6413,-6877,-8451,-7834,-6970,-6466,-5399,-3744,-2151,-342,406,622,-117,20,38,844,2120,1450,2937,4018,3922,2446,1939,405,-964,-1695,-2519,-3950,-5062,-5801,-5896,-4645,-4901,-5168,-4844,-4035,-2501,-2242,-1322,-389,875,1926,3130,5875,4167,7977,4693,4454,-1497,1995,4569,3835,-1383,-3326,-3524,-1909,-1615,-64,-264,-4791,-8011,-8116,-4314,-2982,-1737,-1461,-2782,-2556,354,1866,4955,-139,-2597,-3774,-707,1305,1577,1892,1524,1090,-659,-1818,-761,-1976,-4970,-6182,-5807,-4113,-2764,-2652,-2527,-2249,-1286,-339,-432,-536,919,3343,5619,8785,11765,14310,16373,13772,12052,8844,11891,13131,12125,5083,735,-553,2496,6414,4685,-2461,-5793,-6788,-2168,-161,2211,541,-1182,-2932,-2150,1410,3058,4742,799,-2118,-4913,-429,1534,4837,-836,-3800,-5113,-1679,895,1190,697,-675,-2325,-2819,-1511,63,15,-559,-697,-176,2832,5693,7796,7148,7256,6722,7255,6666,5907,4733,3532,4077,4444,5193,5002,5903,4684,2385,544,-1129,-2104,-3045,-2634,-1564,-864,331,1432,2304,2565,2906,2497,3186,4005,5418,5804,7161,8232,10196,7554,3772,212,1245,3018,4342,1030,-72,-82,3665,4490,6134,3671,-2007,-5006,-6052,-2833,641,3088,4849,4630,3901,3562,3803,5525,1719,-1281,-2977,-1298,752,2658,4543,3276,454,-1487,-2023,-1503,-3869,-4079,-5260,-4522,-5230,-2298,-1545,91,-778,-660,-643,791,3659,6854,10355,11382,13189,16092,18028,17242,13390,9370,9627,12001,12932,8857,4813,1328,2958,3587,7132,-135,-4135,-7733,-2734,-59,1229,2204,232,83,-1730,-1129,143,2119,2796,-814,-3873,-4634,-438,1485,1529,-2729,-6906,-7403,-4953,-1884,-615,1602,1214,-35,-1516,-661,-270,-317,-461,615,1661,2043,5493,7805,10735,9135,6684,4616,2516,2429,1297,1727,1941,3001,3791,4776,5124,2832,-57,-1727,-3502,-3730,-2586,-662,591,1127,1827,1697,2251,960,967,1187,1966,3572,4293,6910,9521,10391,8555,2655,-1399,-3669,-1020,1730,-200,-1743,-4100,87,2609,3869,2733,-2821,-6174,-6291,-4325,-438,281,2404,3550,3022,1982,1323,2691,1207,-1326,-3012,-2679,-252,865,605,815,-520,-1974,-3678,-5476,-5875,-6597,-5991,-5457,-4484,-3507,-2507,-2504,-3341,-3425,-1563,145,1443,4673,5520,11195,12803,17063,14429,10970,8437,6923,9938,10479,9264,6051,3165,2832,2744,3242,5171,-5029,-6543,-11786,-4581,-1291,2092,3277,-479,-2505,-4023,-1660,-52,-1710,-4353,-6080,-5329,-1842,58,1827,-1045,-5731,-8828,-9123,-7816,-7782,-6441,-3823,-1822,658,1919,1548,-337,-1301,-643,144,2475,3720,4528,6471,7934,9740,7195,5221,1601,-760,-2341,-324,1953,3352,4257,4313,2908,898,-834,-3029,-4963,-5955,-5823,-3384,-271,1664,2635,1986,880,-674,-1941,-686,801,2881,3729,5588,8429,9341,10567,2623,-1536,-5788,-4416,-2282,-1664,-1177,-1973,-405,1484,2294,1642,-2474,-6017,-6499,-5847,-2142,-143,3475,4978,3946,2296,1341,674,31,-2303,-3349,-3607,-2386,-762,756,1710,295,-3366,-5987,-7500,-6913,-7199,-5292,-4852,-5178,-4443,-2367,-1479,-1885,-2762,-2037,-583,2692,5942,7954,11541,13275
+08-16 10:36:48.475 18176-18185/com.pdm.spectrogram I/System: FinalizerDaemon: finalize objects = 578
+public class ImageFourier {
+
+//    public static void main (String[] args) throws IOException {
+//        BufferedImage srcimg = ImageIO.read(new File("./84.png"));
+//        BufferedImage destimg = DFT(srcimg);
+//        ImageIO.write(destimg, "png", new File("G:/pic/NormalDFT84.png"));
+//        System.out.println("finished!");
+//    }
+
+    public static BufferedImage DFT(BufferedImage img) throws IOException {
+
+        int w = img.getWidth(null);
+        int h = img.getHeight(null);
+        int m = get2PowerEdge(w); // 获得2的整数次幂
+//      System.out.println(m);
+        int n = get2PowerEdge(h);
+//      System.out.println(n);
+        int[][] last = new int[m][n];
+        Complex[][] next = new Complex[m][n];
+        int pixel, alpha = -1, newred, newgreen, newblue, newrgb;
+
+        BufferedImage destimg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
+//----------------------------------------------------------------------
+        //  first: Image Padding and move it to center 填充图像至2的整数次幂并乘以（-1）^(x+y)
+        //  use 2-D array last to store
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i < w && j < h) {
+                    pixel = img.getRGB(i, j);
+                    if ((i+j)%2==0) {
+                        newred = pixel&0x00ff0000>>16;
+                    }
+                    else {
+                        newred = -(pixel&0x00ff0000>>16);
+                    }
+                    last[i][j] = newred;
+                }
+                else {
+                    last[i][j] = 0;
+                }
+            }
+        }
+
+//----------------------------------------------------------------------
+        // second: Fourier Transform 离散傅里叶变换
+        // u-width v-height x-width y-height
+
+        //------------Normal-DFT-------------
+//          for (int u = 0; u < m; u++){
+//              for (int v = 0; v <n; v++) {
+//                  next[u][v] = DFT(last, u, v);
+//                  System.out.println("U: "+u+"---v: "+v);
+//              }
+//          }
+//          if (true) { // 生成DFT图片,记得修改图片大小
+//          destimg = showFourierImage(next);
+//          return destimg;
+//      }
+
+        //---------------FFT-----------------
+        // 先把所有的行都做一维傅里叶变换，再放回去
+        Complex[] temp1 = new Complex[n];
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                Complex c = new Complex(last[x][y],0);
+                temp1[y] = c;
+            }
+            next[x] = fft(temp1);
+        }
+
+        // 再把所有的列（已经被行的一维傅里叶变换所替代）都做一维傅里叶变换
+        Complex[] temp2 = new Complex[m];
+        for (int y = 0; y < n; y++) {
+            for (int x = 0; x < m; x++) {
+                Complex c = next[x][y];
+                temp2[x] = c;
+            }
+            temp2 = fft(temp2);
+            for (int i = 0; i < m; i++) {
+                next[i][y] = temp2[i];
+            }
+        }
+
+//      if (true) { // 生成DFT图片,记得修改图片大小
+//          destimg = showFourierImage(next);
+//          return destimg;
+//      }
+
+//----------------------------------------------------------------------
+        // third: Generate the frequency filter and filter the image in frequency domain 生成频率域滤波器并滤波
+
+        // 构造原始滤波函数
+        Complex[][] filter = new Complex[m][n];
+        //这个是11X11均值滤波
+//      for (int x = 0; x < m; x++) {
+//          for (int y = 0; y < n; y++) {
+//              if (x < 11 && y < 11) {
+//                  if ((x+y)%2==0)
+//                      filter[x][y] = new Complex(1/121d, 0); // double 后面赋值数字记得加d！！！！！！！
+//                  else
+//                      filter[x][y] = new Complex(-1/121d, 0);
+//              }
+//              else {
+//                  filter[x][y] = new Complex(0, 0);
+//              }
+//          }
+//      }
+
+        //下面这个是拉普拉斯滤波
+        filter[0][0] = new Complex(0, 0);
+        filter[0][1] = new Complex(-1, 0);
+        filter[0][2] = new Complex(0, 0);
+        filter[1][0] = new Complex(-1, 0);
+        filter[1][1] = new Complex(4, 0);
+        filter[1][2] = new Complex(-1, 0);
+        filter[2][0] = new Complex(0, 0);
+        filter[2][1] = new Complex(-1, 0);
+        filter[2][2] = new Complex(0, 0);
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                if (x < 3 && y < 3) {/*上面已经写好了*/}
+                else {
+                    filter[x][y] = new Complex(0, 0);
+                }
+            }
+        }
+
+        // 傅里叶变换 转换为频率域
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                Complex c = new Complex(filter[x][y].getR(), filter[x][y].getI());
+                temp1[y] = c;
+            }
+            filter[x] = fft(temp1);
+        }
+
+        for (int y = 0; y < n; y++) {
+            for (int x = 0; x < m; x++) {
+                Complex c = new Complex(filter[x][y].getR(), filter[x][y].getI());
+//              Complex c = filter[x][y];
+                temp2[x] = c;
+            }
+            temp2 = fft(temp2);
+            for (int i = 0; i < m; i++) {
+                filter[i][y] = temp2[i];
+            }
+        }
+
+//      if (true) {
+//          destimg = showFourierImage(filter);
+//          return destimg;
+//      }
+
+        // point-wise multiply
+        Complex[][] g = new Complex[m][n];
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                g[x][y] = filter[x][y].times(next[x][y]);
+//              System.out.println("g: "+g[x][y].getR()+"  "+g[x][y].getI());
+            }
+        }
+//----------------------------------------------------------------------
+        // fourth: use IDFT to get the image 傅里叶逆变换
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                Complex c = new Complex(g[x][y].getR(), g[x][y].getI());
+                temp1[y] = c;
+            }
+            g[x] = ifft(temp1);
+        }
+
+//      for (int x = 0; x < m; x++) {
+//          for (int y = 0; y < n; y++) {
+//              System.out.println("gifft-g: "+g[x][y].getR()+"  "+g[x][y].getI());
+//          }
+//      }
+
+        for (int y = 0; y < n; y++) {
+            for (int x = 0; x < m; x++) {
+                Complex c = g[x][y];
+                temp2[x] = c;
+            }
+            temp2 = ifft(temp2);
+            for (int i = 0; i < m; i++) {
+                g[i][y] = temp2[i];
+            }
+        }
+
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+//              System.out.println("ifft-g: "+g[x][y].getR()+"  "+g[x][y].getI());
+            }
+        }
+//----------------------------------------------------------------------
+        // fifth：取实部
+        for (int x = 0; x < m; x++) {
+            for (int y = 0; y < n; y++) {
+                last[x][y] = (int)g[x][y].getR();
+//              System.out.println(last[x][y]);
+            }
+        }
+//----------------------------------------------------------------------
+        // sixth: move the image back and cut the image 乘以(-1)^(x+y)再剪裁图像
+//      int srcpixel, srcred;
+        int newalpha = (-1) << 24;
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                //  srcpixel = img.getRGB(i, j);
+                //  srcred = srcpixel&0x00ff0000>>16;
+                newred = last[i][j];
+                if ((i+j)%2!=0)
+                    newred = -newred;
+                //  newred = srcred-newred;
+                newblue = newred; // 先写这个 ，如果先改变newred的值，newblue也会变成改过后的newred！
+                newgreen = newred << 8; // 这个也一样，反正不能放到newred改变自己之前！
+                newred = newred << 16;
+                newrgb = newalpha | newred | newgreen | newblue;
+                destimg.setRGB(i, j, newrgb);
+//              System.out.println("R: "+newred+"---G: "+newgreen+"---B: "+newblue);
+            }
+        }
+//----------------------------------------------------------------------
+        return destimg;
+    }
+
+//---------------------other functions--------------------------
+
+    // 根据图像的长获得2的整数次幂
+    public static int get2PowerEdge(int e) {
+        if (e == 1)
+            return 1;
+        int cur = 1;
+        while(true) {
+            if (e > cur && e <= 2 * cur)
+                return 2*cur;
+            else
+                cur *= 2;
+        }
+    }
+
+    // 返回傅里叶频谱图
+    public static BufferedImage showFourierImage (Complex[][] f) {
+        int w = f.length;
+        int h = f[0].length;
+        double max = 0;
+        double min = 0;
+        BufferedImage destimg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
+        //-------------------First get abs(取模)--------------------------
+        double[][] abs = new double[w][h];
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                abs[i][j] = f[i][j].abs();
+//              System.out.println(f[i][j].getR()+"  "+f[i][j].getI());
+            }
+        }
+        //-------------------Second get log(取log + 1)-------------------
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                abs[i][j] = Math.log(abs[i][j]+1);
+            }
+        }
+        //-------------------Third quantization(量化)---------------------
+        max = abs[0][0];
+        min = abs[0][0];
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                if (abs[i][j] > max)
+                    max = abs[i][j];
+                if (abs[i][j] < min)
+                    min = abs[i][j];
+            }
+        }
+        int level = 255;
+        double interval = (max - min) / level;
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                for (int k = 0; k <= level; k++) {
+                    if (abs[i][j] >= k * interval && abs[i][j] < (k + 1) * interval) {
+                        abs[i][j] = (k * interval / (max - min)) * level;
+                        break;
+                    }
+                }
+            }
+        }
+        //-------------------Fourth setImage----------------------------
+        int newalpha = (-1) << 24;
+        int newred;
+        int newblue;
+        int newgreen;
+        int newrgb;
+        for (int i = 0; i < w; i++) {
+            for (int j = 0; j < h; j++) {
+                newred = (int)abs[i][j] << 16;
+                newgreen = (int)abs[i][j] << 8;
+                newblue = (int)abs[i][j];
+                newrgb = newalpha | newred | newgreen | newblue;
+                destimg.setRGB(i, j, newrgb);
+            }
+        }
+        return destimg;
+    }
+
+    // normal 2-D DFT
+    public static Complex DFT(int[][] f, int u, int v) {
+        int M = f.length;
+        int N = f[0].length;
+        Complex c = new Complex(0, 0);
+        for (int x = 0; x < M; x++) {
+            for (int y = 0; y < N; y++) {
+                Complex temp = new Complex(0, -2*Math.PI*(u*x/M+v*y/N));
+                c = c.plus(temp.exp().times(f[x][y]));
+            }
+        }
+        return c;
+    }
+
+    // 快速一维傅里叶变换
+    public static Complex[] fft (Complex[] x) { //传入的全都是206
+        int N = x.length;
+//      if (N == 256) {
+//          for (int i = 0; i < N; i++)
+//          System.out.println(i+"---"+x[i].getR()+"  "+x[i].getI());
+//      }
+//      System.out.println(N);
+
+        // base case
+        if (N == 1) {
+//          System.out.println(x[0].getR()+"  "+x[0].getI()); // !!!!ERROR
+//          return new Complex[] {x[0]};
+            return x;
+        }
+
+        // radix 2 Cooley-Turkey FFT
+        if (N % 2 != 0) {
+            throw new RuntimeException("N is not a power of 2");
+        }
+
+        // fft of even terms
+        Complex[] even = new Complex[N/2];
+        for (int k = 0; k < N/2; k++) {
+            even[k] = x[2*k];
+        }
+        Complex[] q = fft(even);
+
+        // fft of odd terms
+        Complex[] odd = new Complex[N/2];
+        for (int k = 0; k < N/2; k++) {
+            odd[k] = x[2*k+1]; //DEBUG  之前这里忘记+1  差点搞死我
+        }
+        Complex[] r = fft(odd);
+
+        // combine
+        Complex[] y = new Complex[N];
+        for (int k = 0; k < N/2; k++) {
+            double kth = -2 * k * Math.PI / N;
+            Complex wk = new Complex(Math.cos(kth), Math.sin(kth)); // all small number not 0
+            y[k] = q[k].plus(wk.times(r[k]));
+            y[k + N/2] = q[k].minus(wk.times(r[k]));
+//          System.out.println("wk: "+N+"---"+wk.getR()+"  "+wk.getI());
+//          System.out.println("q[k]: "+N+"---"+q[k].getR()+"  "+q[k].getI());
+//          System.out.println("r[k]: "+N+"---"+r[k].getR()+"  "+r[k].getI());
+//          System.out.println("wk.times(r[k]): "+N+"---"+wk.times(r[k]).getR()+"  "+wk.times(r[k]).getI());
+        }
+
+        return y;
+    }
+
+    // 快速一维傅里叶逆变换
+    public static Complex[] ifft(Complex[] x) {
+        int N = x.length;
+        Complex[] y = new Complex[N];
+
+        // take conjugate
+        for (int i = 0; i < N; i++) {
+            y[i] = x[i].conjugate();
+        }
+
+        // compute forward fft
+        y = fft(y);
+
+        // take conguate again
+        for (int i = 0; i < N; i++) {
+            y[i] = y[i].conjugate();
+        }
+
+        // divide by N
+        for (int i = 0; i < N; i++) {
+            y[i] = y[i].times(1.0/N);
+        }
+
+        return y;
+    }
+
+    // 快速一维卷积
+    public Complex[] convolve(Complex[] x, Complex[] y) {
+
+        if (x.length != y.length) {
+            throw new RuntimeException("Dimension don't agree");
+        }
+
+        int N = x.length;
+
+        // compute fft of each sequence;
+        Complex[] a = fft(x);
+        Complex[] b = fft(y);
+
+        // point-wise multiply
+        Complex[] c = new Complex[N];
+        for (int i = 0; i < N; i++) {
+            c[i] = a[i].times(b[i]);
+        }
+
+        // compute inverse FFT
+//      return ifft(c);
+        return c;
+    }
+}
